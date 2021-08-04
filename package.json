@@ -1,0 +1,9 @@
+{
+  "name": "tiaozhan",
+  "version": "0.0.1",
+  "description": "A blog web app. Wish to be system-completed in software.",
+  "main": "app.ts",
+  "repository": "https://github.com/a9ia/tiaozhan",
+  "author": "A9ia",
+  "license": "MIT"
+}
